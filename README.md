@@ -15,10 +15,9 @@ I am a passionate and detail-oriented **WordPress & PHP Developer** specializing
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rofiqulislamrimon&show_icons=true&theme=radical&cache_seconds=1800" alt="Rofiqul's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqulislamrimon&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rofiqulislamrimon&show_icons=true&theme=radical" alt="Rofiqul's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rofiqulislamrimon&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 
