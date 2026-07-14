@@ -9,7 +9,7 @@ I am a passionate and detail-oriented **WordPress & PHP Developer** specializing
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** PHP, JavaScript, SQL, HTML5, CSS3
-- **CMS & Frameworks:** WordPress (Plugin & Theme Development), WooCommerce
+- **CMS & Frameworks:** WordPress (Plugin & Theme Development), WooCommerce, Storeengine, Academy LMS, GemCRM
 - **Tools & Platforms:** Git, GitHub, SVN, LocalWP, VS Code
 
 ---
@@ -28,7 +28,8 @@ I am a passionate and detail-oriented **WordPress & PHP Developer** specializing
 Let's build something amazing together! You can reach me via:
 
 - 💼 **LinkedIn:** [mdrofiqul.islamrimon](https://linkedin.com/in/mdrofiqul.islamrimon)
-- 𝕏 **Twitter:** [@rimon44190](https://x.com/rimon44190)
+- 𝕏  **Twitter:** [@rimon44190](https://x.com/rimon44190)
+- 👥 **Facebook:** [mdrofiqul.islamrimon](https://www.facebook.com/mdrofiqul.islamrimon)
 - 📸 **Instagram:** [@mdrofiqulislamrimon](https://www.instagram.com/mdrofiqulislamrimon/)
 - 📧 **Email:** [mdrofiqulislam01516@gmail.com](mailto:mdrofiqulislam01516@gmail.com)
 
